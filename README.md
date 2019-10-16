@@ -28,3 +28,20 @@ After, there are several pictures with traces of ant beyond the square. Worth me
 
 Last picture depicts the trace of ant after entering highway.
 
+## Pictures with statistics
+
+First case
+
+![First case](../master/pictures/ant-1-1.png)
+
+Second case
+
+![Second case](../master/pictures/ant-1-2.png)
+
+Third case
+
+![Third case](../master/pictures/ant-1-3.png)
+
+![First hist](../master/pictures/ant-2-1.png)
+
+![Second hist](../master/pictures/ant-2-2.png)
