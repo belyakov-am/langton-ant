@@ -12,4 +12,10 @@ In this project rule RRL was observed. Ant begins to build a highway from 40th s
 3. Randomly colour square; for each ant's launch record the moment of entering a highway, ant's trajectory beyond the square that leads to this highway. Collect statistics for various initial grids. 
 
 ## Collecting statistics 
-For tracking ant's trajectories outside the square 
+For tracking ant's trajectories outside the square script saved the picture of ant's path each time, when ant came back to square after going beyond square. 
+
+The square with size 3x3 was analyzed and ant was launched 2.5 * 10^5 times. 
+
+## Notes to pictures below
+0 - white colour, 1 - blue colour, 2 - lilac colour
+
