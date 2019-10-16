@@ -14,8 +14,17 @@ In this project rule RRL was observed. Ant begins to build a highway from 40th s
 ## Collecting statistics 
 For tracking ant's trajectories outside the square script saved the picture of ant's path each time, when ant came back to square after going beyond square. 
 
-The square with size 3x3 was analyzed and ant was launched 2.5 * 10^5 times. 
+The square with size 3x3 was analyzed. Ant was launched 2.5 * 10^5 times and 3 most frequent patterns were taken.
 
 ## Notes to pictures below
 0 - white colour, 1 - blue colour, 2 - lilac colour
+
+First big picture in each case depicts initial colouring.  
+`Moment of highway` is an iteration of cycle when ant begins to build a highway.  
+`Highway started out of/in square` is self-describing. If highway started beyond the square, horizontal and vertical lengths from the closest side of square are mentioned.  
+`Frequency of pattern` is also self-describing.
+
+After, there are several pictures with traces of ant beyond the square. Worth mentioning that inside the square the initial colouring is saved for more convenient analysis. 
+
+Last picture depicts the trace of ant after entering highway.
 
